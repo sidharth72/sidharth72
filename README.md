@@ -1,4 +1,4 @@
-# Sidharth - AI Enthusiast and ML Engineer 🚀
+# AI Enthusiast and ML Engineer 🚀
 
 ![Profile Picture](profile_picture.jpg) <!-- Add your profile picture if you have one -->
 
