@@ -1,4 +1,4 @@
-# AI Enthusiast and ML Engineer 🚀
+# AI/ML Enthusiast🚀
 
 Hi, I'm Sidharth, an AI enthusiast and Machine Learning Engineer from India. Currently, I'm interning at Brototype, where I apply Machine Learning and Deep Learning to develop innovative solutions.
 
