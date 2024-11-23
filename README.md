@@ -1,23 +1,35 @@
-# AI/ML Enthusiast🚀
+# Hi there! 👋
 
-Hi, I'm Sidharth, an AI enthusiast and Machine Learning Engineer from India. Currently, I'm interning at Brototype, where I apply Machine Learning and Deep Learning to develop innovative solutions.
+Welcome to my GitHub profile! I'm a passionate **Machine Learning & Deep Learning Engineer** from India, focused on building intelligent systems that bridge theory and real-world applications. Here's a bit about me:
 
-## About Me
+---
 
-👨‍💻 I'm passionate about exploring various facets of Artificial Intelligence, with a keen interest in:
+## 🚀 Current Focus
 
-- Deep Learning
-- Natural Language Processing
-- Neuroscience
+- **Machine Learning & Deep Learning**: Developing cutting-edge solutions in **Computer Vision**, **Natural Language Processing**, and **Reinforcement Learning**.
+- **Fine-tuning LLMs**: Experimenting with fine-tuning models for task-specific applications.
+- **Mathematics for AI**: I like to dive deep into the mathematical implications of Algorithms and Models.
 
-Excited to contribute to the world of AI and leverage cutting-edge technologies to tackle real-world issues. My journey involves constantly learning, experimenting, and implementing innovative solutions.
+---
 
-## Current Focus
+## 💡 Interests
 
-🔍 Currently, I'm deeply engaged in exploring machine-learning solutions to tackle diverse challenges. From simple machine learning solutions to new forms of NLP, I'm committed to pushing the boundaries of what AI can achieve.
+- **Conversational AI**: Designing AI systems that can understand and generate human-like responses for engaging user experiences.
+- **Cloud-Based AI Deployment**: Optimizing neural networks like CNNs for cloud services like AWS Lambda, even in GPU-less environments.
+- **AI-Driven Platforms**: Building platforms like **AIDA** and **JobSum** to enhance productivity and empower users with actionable insights.
+- **Open Source Contributions**: Sharing knowledge and contributing to the community by writing **articles**, **blog posts**, and **tutorials** on Machine Learning.
 
-## Collaboration and Learning
+---
 
- I thrive on challenges and am always eager to collaborate with like-minded individuals. Whether it's brainstorming ideas or diving into coding sessions, I'm ready to explore this amazing field together! 
- 
-Let's connect and embark on this exciting journey of discovery and innovation in the world of AI! 🤖💡
+## 🤖 Skills
+
+- **Programming**: Python, PyTorch, TensorFlow, Keras
+- **Model Optimization**: QLoRA, LoraConfig for LLMs
+- **Cloud & Deployment**: AWS (EC2, Lambda), Docker, Certbot
+- **Mathematics**: Linear Algebra, Probability, Statistics, Measure Theory
+
+---
+
+### 🌐 Let’s Connect!
+I love collaborating on innovative AI projects and exploring new challenges. Feel free to connect with me or check out my repositories to see what I'm working on!
+
